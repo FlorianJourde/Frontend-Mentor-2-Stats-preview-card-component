@@ -10,4 +10,4 @@ Second exercice from Frontend Mentor website. The purpose is to train HTML, SCSS
 
 **HTML, SCSS**
 
-[Preview-site](https://https://stats-preview-card-component-with-scss.onrender.com/)
+[Preview-site](https://stats-preview-card-component-with-scss.onrender.com/)
